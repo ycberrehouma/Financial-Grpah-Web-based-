@@ -1,6 +1,6 @@
 # Financial-Grpah-Web-based-
 
-This application gets a stock and display it on a web page in an interactive Candlestick Chart 
+This application gets a stock (GOOG aka google) and display it on a web page in an interactive Candlestick Chart 
 
 <b> Output sample </b>
 
